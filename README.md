@@ -12,7 +12,7 @@
 
 I’m a **Cloud & DevOps Engineer** with a strong foundation in cybersecurity, backed by a **Master’s degree in Information Technology with a specialization in Cybersecurity**. I’m passionate about architecting, automating, and securing systems that solve real-world challenges.This GitHub is my living portfolio — a space where I showcase my projects and document my continuous learning journey.
 
-🚀 Currently working on: **Cloud-native solutions (AWS & GCP), CI/CD automation, and secure DevOps workflows**
+🛠️ Currently working on: **Cloud-native solutions (AWS & GCP), CI/CD automation, and secure DevOps workflows**
 
 📚 Always learning about: **Scalable architectures, modern DevOps tools, and advanced security fundamentals**
 
@@ -104,23 +104,13 @@ I’m a **Cloud & DevOps Engineer** with a strong foundation in cybersecurity, b
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hardikrangucha&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikrangucha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardikrangucha&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hardikrangucha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</div>
+<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=hardikrangucha&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikrangucha&layout=compact&theme=merko&hide_border=true" alt="Top Languages" height="165">
+</div>  
 
 ---
 
@@ -135,19 +125,10 @@ I’m a **Cloud & DevOps Engineer** with a strong foundation in cybersecurity, b
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardikrangucha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-rangucha)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hardikrangucha)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardik@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardikrangucha11@gmail.com)
 
 </div>
 
 ---
-
-<div align="center">
-  
-### 💡 "Securing systems, scaling clouds, and sharing knowledge." 
-
-![Profile Views](https://komarev.com/ghpvc/?username=hardikrangucha&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/hardikrangucha?label=Follow&style=social)](https://github.com/hardikrangucha)
-
-</div>
