@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hello Dosto 👋
+# Hi 👋, I'm Hardik Rangucha
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Cloud+Engineer;AWS+Engineer;DevOps+Practitioner;Always+Learning+%26+Building)](https://git.io/typing-svg)
 
@@ -10,44 +10,38 @@
 
 ## 🚀 About Me
 
-I'm a **Cloud & DevOps learner** with a background in Masters in Information Technology (Cybersecurity specialization).
+I’m a **Cloud & DevOps Engineer** with a strong foundation in cybersecurity, backed by a **Master’s degree in Information Technology with a specialization in Cybersecurity**. I’m passionate about architecting, automating, and securing systems that solve real-world challenges.This GitHub is my living portfolio — a space where I showcase my projects and document my continuous learning journey.
 
-What excites me the most is the idea of building, automating, and securing systems that solve real-world problems.
+🚀 Currently working on: **Cloud-native solutions (AWS & GCP), CI/CD automation, and secure DevOps workflows**
 
-I enjoy the full process of my work — from planning and experimenting, to building and automating, and finally sharing my learnings so others can benefit.
-
-My current focus areas include cloud platforms (AWS & GCP), DevOps practices, automation, and security fundamentals.
-
-I treat my GitHub like a learning log — every project here represents a step forward in my journey.
+📚 Always learning about: **Scalable architectures, modern DevOps tools, and advanced security fundamentals**
 
 ---
 
 ## 🛠️ Tech Stack
-
 ### **Languages & Frameworks**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-right: 15px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </p>
 
 ### **Cloud & DevOps**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin-right: 15px;"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" style="margin-right: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin-right: 15px;"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" style="margin-right: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="margin-right: 15px;"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
 </p>
 
 ### **Databases & Security Tools**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/OWASP/www-project-top-ten/master/assets/images/OWASP-logo.png" alt="OWASP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin-right: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin-right: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 15px;"/>
   <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="kali" width="40" height="40"/>
 </p>
 
@@ -113,7 +107,7 @@ I treat my GitHub like a learning log — every project here represents a step f
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hardikrangucha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=hardikrangucha&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikrangucha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </div>
 
