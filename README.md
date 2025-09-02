@@ -2,7 +2,7 @@
   
 # Hello Dosto 👋, I'm **Hardik Rangucha**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Cybersecurity+Enthusiast;Cloud+%26+DevOps+Explorer;Open-Source+Contributor;Always+Learning+%26+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Cloud+Engineer;AWS+Engineer;DevOps+Practitioner;Always+Learning+%26+Building)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-Hi there 👋 I’m Hardik, a Cloud & DevOps learner with a background in Masters in Information Technology (Cybersecurity specialization).
+Hi there 👋 I’m Hardik, a **Cloud & DevOps learner** with a background in Masters in Information Technology (Cybersecurity specialization).
 
 What excites me the most is the idea of building, automating, and securing systems that solve real-world problems.
 
@@ -19,6 +19,7 @@ I enjoy the full process of my work — from planning and experimenting, to buil
 My current focus areas include cloud platforms (AWS & GCP), DevOps practices, automation, and security fundamentals.
 
 I treat my GitHub like a learning log — every project here represents a step forward in my journey.
+
 ---
 
 ## 🛠️ Tech Stack
