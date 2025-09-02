@@ -57,7 +57,7 @@ I’m a **Cloud & DevOps Engineer** with a strong foundation in cybersecurity, b
   <tr>
     <td align="center" width="33%">
       <a href="[PROJECT_LINK_1](https://github.com/hardikrangucha/wildrydes-site.git)">
-        <img src="src/PROJECT_IMAGE_1" width="100%" alt="AWS Serverless Ride-Sharing Web App"/><br />
+        <img src="src/PROJECT_IMAGE_1.png" width="100%" alt="AWS Serverless Ride-Sharing Web App"/><br />
         <b>☁️ AWS Serverless Ride-Sharing</b>
       </a>
       <p>A serverless web app simulating ride-sharing using AWS services.</p>
