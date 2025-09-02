@@ -10,14 +10,15 @@
 
 ## 🚀 About Me
 
-I'm a **Cybersecurity Enthusiast** & **Cloud/DevOps Learner** from 🇮🇳 India, with a background in **MScIT (Cybersecurity specialization)** and hands-on internship experience in **security auditing, cloud automation, and open-source projects**.  
+Hi there 👋 I’m Hardik, a Cloud & DevOps learner with a background in Masters in Information Technology (Cybersecurity specialization).
 
-- 🔭 Currently working on **cybersecurity projects** and **cloud backup automation**  
-- 🌱 Learning **Cloud Security, DevOps, and Threat Intelligence**  
-- 👯 Open to collaborate on **security research, cloud-native projects, and open-source tools**  
-- 💬 Ask me about **Web Security, OWASP, Linux, Cloud, and DevOps basics**  
-- ⚡ Fun fact: I built a **Password Strength Checker** as my MScIT final project  
+What excites me the most is the idea of building, automating, and securing systems that solve real-world problems.
 
+I enjoy the full process of my work — from planning and experimenting, to building and automating, and finally sharing my learnings so others can benefit.
+
+My current focus areas include cloud platforms (AWS & GCP), DevOps practices, automation, and security fundamentals.
+
+I treat my GitHub like a learning log — every project here represents a step forward in my journey.
 ---
 
 ## 🛠️ Tech Stack
