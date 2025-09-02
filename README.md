@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I’m a **Cloud & DevOps Engineer** with a strong foundation in cybersecurity, backed by a **Master’s degree in Information Technology with a specialization in Cybersecurity**. I’m passionate about architecting, automating, and securing systems that solve real-world challenges.This GitHub is my living portfolio — a space where I showcase my projects and document my continuous learning journey.
+I’m a **Cloud & DevOps Enthusiast** with a strong foundation in cybersecurity, backed by a **Master’s degree in Information Technology with a specialization in Cybersecurity**. I’m passionate about architecting, automating, and securing systems that solve real-world challenges.This GitHub is my living portfolio — a space where I showcase my projects and document my continuous learning journey.
 
 🛠️ Currently working on: **Cloud-native solutions (AWS & GCP), CI/CD automation, and secure DevOps workflows**
 
