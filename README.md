@@ -47,7 +47,7 @@ I treat my GitHub like a learning log — every project here represents a step f
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/6716867?s=200&v=4" alt="owasp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/OWASP/www-project-top-ten/master/assets/images/OWASP-logo.png" alt="OWASP" width="40" height="40"/>
   <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="kali" width="40" height="40"/>
 </p>
 
