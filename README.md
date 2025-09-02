@@ -56,11 +56,11 @@ I’m a **Cloud & DevOps Engineer** with a strong foundation in cybersecurity, b
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <a href="PROJECT_LINK_1">
-        <img src="PROJECT_IMAGE_1" width="100%" alt="Project 1"/><br />
-        <b>🔐 Password Strength Checker</b>
+      <a href="[PROJECT_LINK_1](https://github.com/hardikrangucha/wildrydes-site.git)">
+        <img src="PROJECT_IMAGE_1" width="100%" alt="AWS Serverless Ride-Sharing Web App"/><br />
+        <b>☁️ AWS Serverless Ride-Sharing</b>
       </a>
-      <p>A tool to evaluate and improve password security.</p>
+      <p>A serverless web app simulating ride-sharing using AWS services.</p>
     </td>
     <td align="center" width="33%">
       <a href="PROJECT_LINK_2">
@@ -115,8 +115,9 @@ I’m a **Cloud & DevOps Engineer** with a strong foundation in cybersecurity, b
 ---
 
 ## 📈 Activity Graph
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hardikrangucha&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hardikrangucha&theme=github-compact&hide_border=true" alt="Activity Graph">
 </div>
 
 ---
