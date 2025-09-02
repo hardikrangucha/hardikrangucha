@@ -18,90 +18,11 @@ I’m a **Cloud & DevOps Engineer** with a strong foundation in cybersecurity, b
 
 ---
 
-## 🛠️ Tech Stack
-### **Languages & Frameworks**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-right: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</p>
+## 🛠️ Tech Stack  
 
-### **Cloud & DevOps**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin-right: 15px;"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" style="margin-right: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin-right: 15px;"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" style="margin-right: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="margin-right: 15px;"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
-</p>
-
-### **Databases & Security Tools**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin-right: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin-right: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 15px;"/>
-  <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="kali" width="40" height="40"/>
-</p>
-
----
-
-## 🚀 Projects Showcase  
-
-<p align="center">
-  <b>Featured Projects</b>
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/hardikrangucha/wildrydes-site.git">
-        <img src="src/PROJECT_IMAGE_1.png" width="100%" alt="AWS Serverless Ride-Sharing Web App" style="border-radius:15px; overflow:hidden;"/><br />
-        <b>AWS Serverless Ride-Sharing</b>
-      </a>
-      <p>A serverless web app simulating ride-sharing using AWS services.</p>
-    </td>
-    <td align="center" width="33%">
-      <a href="PROJECT_LINK_2">
-        <img src="PROJECT_IMAGE_2" width="100%" alt="Project 2"/><br />
-        <b>🕵️ SOC L1 Analyst Simulation</b>
-      </a>
-      <p>Simulated SOC environment with threat hunting exercises.</p>
-    </td>
-    <td align="center" width="33%">
-      <a href="PROJECT_LINK_3">
-        <img src="PROJECT_IMAGE_3" width="100%" alt="Project 3"/><br />
-        <b>☁️ AWS MongoDB Backup POC</b>
-      </a>
-      <p>Automated database backups using AWS & cron jobs.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="PROJECT_LINK_4">
-        <img src="PROJECT_IMAGE_4" width="100%" alt="Project 4"/><br />
-        <b>🌐 Secure Web Audit</b>
-      </a>
-      <p>Audited a live website with OWASP ZAP & Nikto.</p>
-    </td>
-    <td align="center" width="33%">
-      <a href="PROJECT_LINK_5">
-        <img src="PROJECT_IMAGE_5" width="100%" alt="Project 5"/><br />
-        <b>🎮 Pokémon Search App</b>
-      </a>
-      <p>Fun React app powered by PokéAPI with optimized styling.</p>
-    </td>
-    <td align="center" width="33%">
-      <a href="PROJECT_LINK_6">
-        <img src="PROJECT_IMAGE_6" width="100%" alt="Project 6"/><br />
-        <b>📊 Demographic Data Analysis</b>
-      </a>
-      <p>Data analysis on adult demographics using Python & Pandas.</p>
-    </td>
-  </tr>
-</table>
-
+| **Languages & Frameworks** | **Cloud & DevOps** | **Databases & Security Tools** |
+|-----------------------------|--------------------|--------------------------------|
+| <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </p> | <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </p> | <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="kali" width="40" height="40"/> </p> |
 ---
 
 ## 📊 GitHub Stats  
