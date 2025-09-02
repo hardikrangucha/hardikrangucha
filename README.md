@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hello Dosto 👋, I'm **Hardik Rangucha**
+# Hello Dosto 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Cloud+Engineer;AWS+Engineer;DevOps+Practitioner;Always+Learning+%26+Building)](https://git.io/typing-svg)
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-Hi there 👋 I’m Hardik, a **Cloud & DevOps learner** with a background in Masters in Information Technology (Cybersecurity specialization).
+I'm a **Cloud & DevOps learner** with a background in Masters in Information Technology (Cybersecurity specialization).
 
 What excites me the most is the idea of building, automating, and securing systems that solve real-world problems.
 
