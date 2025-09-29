@@ -40,6 +40,7 @@ I’m a **Cloud & DevOps Enthusiast** with a strong foundation in cybersecurity,
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="kali" width="40" height="40"/> 
 </p> |
+
 ---
 
 ## 📊 GitHub Stats  
