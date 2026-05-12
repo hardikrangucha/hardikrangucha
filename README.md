@@ -26,14 +26,12 @@ I’m a **Cloud & DevOps Enthusiast** with a strong foundation in cybersecurity,
 ---
 ## 📊 GitHub Stats  
 
-<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=hardikrangucha&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikrangucha&layout=compact&theme=merko&hide_border=true" alt="Top Languages" height="165">
-</div>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hardikrangucha&show_icons=true&theme=merko&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikrangucha&layout=compact&theme=merko&hide_border=true" height="165" />
+</p>
 
 ---
-
 ## 📈 Activity Graph
 
 <div align="center">
