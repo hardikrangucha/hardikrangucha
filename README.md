@@ -27,7 +27,7 @@ I’m a **Cloud & DevOps Enthusiast** with a strong foundation in cybersecurity,
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hardikrangucha&show_icons=true&theme=merko&hide_border=true&count_private=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=hardikrangucha&theme=highcontrast&mode=weekly" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikrangucha&layout=compact&theme=merko&hide_border=true" height="165" />
 </p>
 
